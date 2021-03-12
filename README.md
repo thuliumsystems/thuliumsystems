@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thuliumsystems
+- 👀 I’m interested in Ionic
+- 🌱 I’m currently learning Next Js
+- 💞️ I’m looking to collaborate on my jobs
+- 📫 How to reach me comercial@thulium.com.br
